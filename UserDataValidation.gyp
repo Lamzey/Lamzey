@@ -1,3 +1,7 @@
+"""I used Pickle to store my dictionary. 
+For you to get the data open the file.pkl in your documents or search for it. 
+Once opened, you can try collecting another data and it changes in real time."""
+
 import random
 import string
 import re
